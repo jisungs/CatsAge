@@ -12,6 +12,7 @@
 		96749DA42239C7E200B75EE3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 96749DA22239C7E200B75EE3 /* Main.storyboard */; };
 		96749DA62239C7E300B75EE3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 96749DA52239C7E300B75EE3 /* Assets.xcassets */; };
 		96749DA92239C7E300B75EE3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 96749DA72239C7E300B75EE3 /* LaunchScreen.storyboard */; };
+		96F0AE3A2239CCED00463EB6 /* cat.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 96F0AE392239CCED00463EB6 /* cat.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		96749DA52239C7E300B75EE3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		96749DA82239C7E300B75EE3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		96749DAA2239C7E300B75EE3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		96F0AE392239CCED00463EB6 /* cat.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cat.jpeg; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				96749D9E2239C7E200B75EE3 /* AppDelegate.swift */,
 				96749DA02239C7E200B75EE3 /* ViewController.swift */,
 				96749DA22239C7E200B75EE3 /* Main.storyboard */,
+				96F0AE392239CCED00463EB6 /* cat.jpeg */,
 				96749DA52239C7E300B75EE3 /* Assets.xcassets */,
 				96749DA72239C7E300B75EE3 /* LaunchScreen.storyboard */,
 				96749DAA2239C7E300B75EE3 /* Info.plist */,
@@ -122,6 +125,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				96F0AE3A2239CCED00463EB6 /* cat.jpeg in Resources */,
 				96749DA92239C7E300B75EE3 /* LaunchScreen.storyboard in Resources */,
 				96749DA62239C7E300B75EE3 /* Assets.xcassets in Resources */,
 				96749DA42239C7E200B75EE3 /* Main.storyboard in Resources */,
